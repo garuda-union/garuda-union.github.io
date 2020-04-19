@@ -8,5 +8,6 @@ Null-sec guide goes here
 
 Nanti terbagi 3:
 - [How to live in null](howtoliveinnull/liveinnull.html)
+- [Corp's programs](corpsprogram/corpsprogram.html)
 - [PVE](pve/pve.html)
 - [PVP](pvp/pvp.html)

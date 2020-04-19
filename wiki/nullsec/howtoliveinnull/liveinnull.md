@@ -4,4 +4,7 @@ parent: Null-Sec Guide
 nav_order: 1
 ---
 
-PVE guide goes here
+Guide to live in null goes here.
+
+Jelasin ttg local, intel channel, nearby systems and the facilities, alliance rules, etc
+
