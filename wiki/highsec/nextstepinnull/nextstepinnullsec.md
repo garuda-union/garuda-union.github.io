@@ -8,6 +8,7 @@ Setiap member di **Garuda Union** diharapkan untuk ikut tinggal ke null-sec. Ber
 
 Selain ISK yg bisa **lebih banyak** didapat, aktifitas corp juga lebih diprioritaskan di null-sec, seperti:
 - Internal program seperti buyback dan freight service
+- PVE (anom ratting & DED complex) :moneybag: 
 - Salvaging
 - Exploration
 - Gas mining
