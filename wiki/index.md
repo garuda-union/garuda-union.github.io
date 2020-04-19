@@ -1,5 +1,5 @@
 ---
-title: Test edit title again
+title: Garuda Union Wiki
 layout: default
 ---
 
