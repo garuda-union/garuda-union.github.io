@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Test edit title
 layout: default
 ---
 
