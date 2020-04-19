@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-logo: "https://imageserver.eveonline.com/Corporation/98296037_256.png"
+logo: "https://imageserver.eveonline.com/Corporation/98296037_256.png =100x20"
 search_enabled: true
 title: Garuda Union Wiki
 description: Wiki page for Garuda Union corp
