@@ -18,4 +18,4 @@ Member dapat mulai untuk pindah ke null-sec setelah mencoba melakukan aktifitas 
 
 Apabila sudah siap untuk tinggal di null-sec, member bisa kabarkan officer agar dibantu untuk perpindahannya. Corp akan membantu untuk membimbing member untuk transisi segera ke null-sec.
 
-Selanjutnya, mohon baca [guide tentang null-sec](../../nullsec/nullsec.html) yg sudah corp tulis
+Selanjutnya, mohon baca [guide tentang null-sec](../../nullsec/nullsec.html) yg sudah corp tulis.
