@@ -1,5 +1,5 @@
 ---
-title: Emerging Conduit Guide
+title: Emerging Conduit
 parent: Starter Activities Guide
 nav_order: 2
 ---

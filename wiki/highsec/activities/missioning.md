@@ -1,5 +1,5 @@
 ---
-title: Missioning Guide
+title: Missioning
 parent: Starter Activities Guide
 nav_order: 1
 ---
