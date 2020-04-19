@@ -12,6 +12,6 @@ Banyak hal yg bisa dilakukan oleh player baru di EVE Online. **Garuda Union** me
 - [Missioning](activities/missioning.html)
 - [Emerging Conduit](activities/emergingconduit.html)
 
-Kedua aktifitas diatas merupakan aktifitas PVE, dimana player dapat belajar banyak hal tentang piloting, overview, fits/modules, navigasi, dan banyak hal lainnya yg akan berguna.
+Kedua aktifitas diatas merupakan aktifitas PVE, dimana player dapat belajar banyak hal tentang piloting, overview, fits/modules, navigasi, dan banyak hal lainnya.
 
 Selain itu, reward berupa LP dan ISK yg didapatkan juga nantinya akan berguna ketika player sudah siap untuk [pindah ke null](nextstepinnull/nextstepinnullsec.html).
