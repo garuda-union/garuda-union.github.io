@@ -6,7 +6,7 @@ has_children: true
 
 Null-sec guide goes here
 
-Nanti terbagi 3:
+Nanti terbagi dari bbrp chapter:
 - [How to live in null](howtoliveinnull/liveinnull.html)
 - [Corp's programs](corpsprogram/corpsprogram.html)
 - [PVE](pve/pve.html)
