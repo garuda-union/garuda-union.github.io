@@ -1,6 +1,7 @@
 ---
 title: Next Step in Null-Sec
-layout: default
+parent: Starter Activities Guide
+nav_order: 2
 ---
 
 Disini musti omongin requirements apa aja yg diperluin di null-sec.

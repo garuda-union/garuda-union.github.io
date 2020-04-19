@@ -1,6 +1,7 @@
 ---
 title: PVP Guide in Null
-layout: default
+parent: Null-Sec Guide
+nav_order: 3
 ---
 
 PVP guide goes here

@@ -1,6 +1,7 @@
 ---
 title: Null-Sec Guide
-layout: default
+nav_order: 3
+has_children: true
 ---
 
 Null-sec guide goes here

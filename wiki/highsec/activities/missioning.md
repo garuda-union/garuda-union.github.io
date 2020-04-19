@@ -1,6 +1,7 @@
 ---
 title: Missioning Guide
-layout: default
+parent: Starter Activities Guide
+nav_order: 1
 ---
 
 Missioning guide goes here

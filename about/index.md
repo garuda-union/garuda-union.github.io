@@ -1,6 +1,6 @@
 ---
 title: About Garuda Union
-title-heading: false
+nav_exclude: true
 layout: default
 ---
 
