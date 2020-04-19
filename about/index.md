@@ -7,7 +7,7 @@ layout: default
 
 Tujuan dari berdirinya korporasi ini merupakan untuk membangun sebuah identitas indonesia didalam New Eden.
 
-Dalam masa kejayaannya **Garuda Union** juga membangun kerja sama dengan korporasi asal Malaysia yang  biasa disebut Hollow Ataraxia, hasil kerja sama kedua korporasi ini melahirkan entitas baru yaitu **Gerup Gerak Khas**, merupakan entitas terbesar Asia Tenggara gabungan Indonesia dan Malaysia. Perjalanan gabungan kedua entitas ini berakhir pada tahun 2019.
+Dalam masa kejayaannya **Garuda Union** juga membangun kerja sama dengan korporasi asal Malaysia yang  biasa disebut **Hollow Ataraxia**, hasil kerja sama kedua korporasi ini melahirkan entitas baru yaitu **Gerup Gerak Khas**, merupakan entitas terbesar Asia Tenggara gabungan Indonesia dan Malaysia. Perjalanan gabungan kedua entitas ini berakhir pada tahun 2019.
 
 Saat ini **Garuda Union** menetap di high security space sebagai entitas untuk membantu player-player baru asal Indonesia.
 
