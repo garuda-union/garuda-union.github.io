@@ -4,11 +4,14 @@ nav_order: 2
 has_children: true
 ---
 
-Starter activities guide goes here. Blablabla pengenalan ke eve online.
-Terbagi jadi 2 chapter spesifik utk 2 aktifitas yg bisa newbro lakukan
-- [Missioning guide](activities/missioning.html)
-- [Emerging conduit guide](activities/emergingconduit.html)
+Player baru di EVE Online memuali petualangannya di high security space.
 
-Hmm tambahan juga buat lure and motivate new player to move to null-sec, like EVE-Uni does to all new player who'd be expected to move to TGRAD... This should be in separate page I think.
+High security space merupakan area di EVE Online dengan security status dengan rentang 0.5 sampai 1.0. Di high security space (atau biasa disebut dengan "hi-sec"), player tidak bisa begitu saja menyerang atau diserang oleh player lainnya. Konsekuensi menyerang player lain yg bukan suspect atau bukan war target akan mentrigger reaksi dari CONCORD terhadap pihak aggressor. Walaupun begitu, tidak ada tempat yg aman di EVE Online.
 
-[Next step in null-sec](nextstepinnull/nextstepinnullsec.html)
+Banyak hal yg bisa dilakukan oleh player baru di EVE Online. **Garuda Union** merekomendasikan 2 aktifitas spesifik yg dapat dilakukan oleh player baru agar dapat mengenal game ini dengan lebih baik. Kedua aktifitas tersebut adalah:
+- [Missioning](activities/missioning.html)
+- [Emerging Conduit](activities/emergingconduit.html)
+
+Kedua aktifitas diatas merupakan aktifitas PVE, dimana player dapat belajar banyak hal tentang piloting, overview, fits/modules, navigasi, dan banyak hal lainnya yg akan berguna.
+
+Selain itu, reward berupa LP dan ISK yg didapatkan juga nantinya akan berguna ketika player sudah siap untuk [pindah ke null](nextstepinnull/nextstepinnullsec.html).
