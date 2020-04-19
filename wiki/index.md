@@ -1,3 +1,8 @@
+---
+title: My page
+layout: default
+---
+
 An h1 header
 ============
 
