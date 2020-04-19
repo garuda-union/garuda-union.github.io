@@ -8,10 +8,9 @@ General Information
 
 Wiki ini berisi kumpulan guide untuk player EVE di Indonesia, termasuk member Garuda Union dan Hollow United Garuda.
 
-Guide ini terdiri dari beberapa chapter:
-1. [Corp rules spesifik untuk -G-UN dan H-U-G](rules/rules.html)
-2. [Starter activities untuk new player di high security space](highsec/highsec.html)
-3. [How to move and live in null-sec](nullsec/nullsec.html)
+Guide ini terdiri dari 2 chapter:
+1. [Starter activities untuk new player di high security space](highsec/highsec.html)
+2. [How to move and live in null-sec](nullsec/nullsec.html)
 
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
