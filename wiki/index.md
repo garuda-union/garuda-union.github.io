@@ -3,10 +3,16 @@ title: Garuda Union Wiki
 layout: default
 ---
 
-An h1 header
+General Information
 ============
 
-Paragraphs are separated by a blank line.
+Wiki ini berisi kumpulan guide untuk player EVE di Indonesia, termasuk member Garuda Union dan Hollow United Garuda.
+
+Guide ini terdiri dari beberapa chapter:
+1. [Corp rules spesifik untuk -G-UN dan H-U-G](rules.md)
+2. [Starter activities untuk new player di high security space](starteractivities.md)
+3. [How to move and live in null-sec](nullsec.md)
+
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
