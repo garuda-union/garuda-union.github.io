@@ -6,4 +6,6 @@ description: Wiki page for Garuda Union corp
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Garuda Union"
+plugins:
+  - jemoji
 
