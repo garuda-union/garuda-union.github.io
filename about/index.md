@@ -1,5 +1,6 @@
 ---
 title: About Garuda Union
+title-heading: false
 layout: default
 ---
 
