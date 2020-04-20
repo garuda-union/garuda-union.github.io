@@ -1,5 +1,5 @@
 ---
-title: Null-Sec Survival Guide
+title: Survival Guide
 parent: Null-Sec Guide
 nav_order: 1
 ---
