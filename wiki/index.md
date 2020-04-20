@@ -1,5 +1,5 @@
 ---
-title: Garuda Union Wiki
+title: Welcome
 nav_order: 1
 ---
 ## __WELCOME TO GARUDA UNION WIKI__
@@ -15,5 +15,4 @@ Guide ini terdiri dari 2 main chapter:
 
 Dengan mengikuti guide dan alur progress yang sudah corp rancang untuk member, diharapkan member dapat berkembang dan tidak kesulitan di New Eden.
 
-Wiki ini juga berisi panduan-panduan dasar untuk memahami game Eve Online [Basic Guide](basicguide/basicguide.html)
-
+Wiki ini juga berisi [panduan-panduan dasar](basicguide/basicguide.html) untuk memahami game Eve Online.
