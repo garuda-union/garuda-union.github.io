@@ -10,6 +10,7 @@ published: true
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_qEv-WtCYiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
 
 **Garuda Union** atau biasa dikenal dengan **-G-UN (GUN)** merupakan sebuah korporasi Indonesia di dalam game EVE Online. **Garuda Union** pada masanya merupakan korporasi Indonesia terbesar yg pernah ada di New Eden.
 
