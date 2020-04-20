@@ -10,6 +10,7 @@ Selain ISK yg bisa **lebih banyak** didapat, aktifitas corp juga lebih dipriorit
 - Internal program seperti buyback dan freight service
 - PVE (anom ratting & DED complex) :moneybag: 
 - Salvaging
+- Planetary Interaction
 - Exploration
 - Gas mining
 - Industry
