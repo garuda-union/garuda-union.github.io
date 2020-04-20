@@ -1,5 +1,5 @@
 ---
-title: How to Live in Null
+title: Null-Sec Survival Guide
 parent: Null-Sec Guide
 nav_order: 1
 ---

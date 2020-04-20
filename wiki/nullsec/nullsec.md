@@ -10,7 +10,7 @@ Dibawah corp **Hollow United Garuda** dan aliansi **Initiative Associates**, kam
 
 Kami sudah merangkum semua hal yg member perlu tahu agar bisa survive dan berjaya di **Hollow United Garuda**.
 
-Pertama, member harus mengetahui [null-sec survival guide](howtoliveinnull/liveinnull.html).
+Pertama, member harus mengetahui [null-sec survival guide](nullsecsurvivalguide/nullsecsurvivalguide.html).
 
 Kedua, pahami [program internal corp](corpsprogram/corpsprogram.html). Member bisa mendapatkan income dengan aktif berpartisipasi dengan program yg corp tawarkan.
 
