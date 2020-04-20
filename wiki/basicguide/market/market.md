@@ -16,3 +16,5 @@ Pusat trading/market di Eve Online dibagi menjadi 4 trade hubs yang masing-masin
 - Rens VI - Moon 8 - Brutor Tribe Treasury (Minmatar)
 
 Jita trade hub adalah trade hub terbesar dan menjadi pusat dari segala trading di Eve Online. 
+
+Untuk melakukan Pengecekan harga barang jual maupun beli yang ada di sluruh New Eden dapat digunakan website external : https://evemarketer.com
