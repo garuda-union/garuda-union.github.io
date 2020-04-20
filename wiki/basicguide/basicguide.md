@@ -6,7 +6,7 @@ has_children: true
 
 # Basic Guides
 
-List of basic guides : 
+Panduan-panduan dasar game Eve Online : 
 - [User Interface](userinterface/userinterface.html)
 - [Gameplay](gameplay/gameplay.html)
 - [Market](market/market.html)
