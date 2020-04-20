@@ -16,4 +16,4 @@ Kedua, pahami [program internal corp](corpsprogram/corpsprogram.html). Member bi
 
 Ketiga, aktifitas utama berupa [PVE](pve/pve.html) dan [PVP](pvp/pvp.html) dapat dibaca di link tertera.
 
-> Jika anda tertarik untuk pindah ke null-sec, harap hubungi officer agar dapat dibantu.
+Jika anda tertarik untuk pindah ke null-sec, harap hubungi officer agar dapat dibantu.
