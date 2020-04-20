@@ -1,6 +1,8 @@
-.site-header {
-    display: flex;
-    min-height: 128px;
-    height: 128px;
-    align-items: center
+@media (min-width: 50rem) {
+    .site-header {
+        z-index:101;
+        height: 128px;
+        max-height: 128px;
+        border-bottom: 1px solid #eeebee
+    }
 }
