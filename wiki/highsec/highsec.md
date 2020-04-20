@@ -4,7 +4,7 @@ nav_order: 3
 has_children: true
 ---
 
-Player baru di EVE Online memuali petualangannya di high security space.
+Player baru di EVE Online memulai petualangannya di high security space.
 
 High security space merupakan area di EVE Online dengan security status dengan rentang 0.5 sampai 1.0. Di high security space (atau biasa disebut dengan "hi-sec"), player tidak bisa begitu saja menyerang atau diserang oleh player lainnya. Konsekuensi menyerang player lain yg bukan suspect atau bukan war target akan mentrigger reaksi dari CONCORD terhadap pihak aggressor. Walaupun begitu, tidak ada tempat yg aman di EVE Online.
 
