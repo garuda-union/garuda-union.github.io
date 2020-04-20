@@ -7,6 +7,6 @@ has_children: true
 # Basic Guides
 
 List of basic guides : 
-- User Interface
+- [User Interface](userinterface/userinterface.html)
 - Gameplay
 - Market
