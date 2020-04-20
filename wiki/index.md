@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Home
 nav_order: 1
 ---
 ## __WELCOME TO GARUDA UNION WIKI__
