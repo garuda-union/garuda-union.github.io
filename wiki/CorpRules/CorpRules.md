@@ -1,6 +1,9 @@
 ---
 title: Corporation Rules
 nav_order: 5
+has_children: true
 ---
 
-Testing
+Testing.
+
+Sediain space aja nunggu officer meeting
