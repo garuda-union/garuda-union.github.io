@@ -86,7 +86,7 @@ html{direction:rtl}body{direction:rtl}.flip.text-left{text-align:right}.flip.tex
 
 @media (max-width: 991px) {
     #logo img {
-        padding: 10px 0 10px 10px;
+        padding: 30px 0 30px 30px;
     }
     nav ul.main-menu li a i.fa-angle-down {
         right: auto;
