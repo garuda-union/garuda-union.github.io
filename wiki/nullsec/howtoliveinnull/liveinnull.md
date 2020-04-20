@@ -6,13 +6,13 @@ nav_order: 1
 
 Tinggal di null-sec tidak sama seperti di high-sec, tapi disinilah konten EVE Online yg sebenarnya terjadi.
 
-Ada beberapa hal yg wajib diperhatikan ketika member sudah tinggal di null-sec, seperti:
-- Local channel
-- Intel channel
-- Join audio comms di Discord
-- Join standing fleet
-- Mengikuti arahan FC atau member senior
-- Menaati aturan aliansi khususnya dalam hal PVE
+Ada beberapa hal yg harus diperhatikan ketika member sudah tinggal di null-sec, seperti:
+- [Local channel](#local-channel)
+- [Intel channel](#intel-channel)
+- [Join audio comms di Discord](#audio-comms-di-discord)
+- [Join standing fleet](#join-standing-fleet)
+- [Mengikuti arahan FC atau member senior](#mengikuti-arahan-fc-atau-member-senior)
+- [Menaati aturan aliansi khususnya dalam hal PVE](#menaati-aturan-aliansi)
 
 Setiap point diatas akan dijelaskan dengan lebih detail di dokumen ini.
 
