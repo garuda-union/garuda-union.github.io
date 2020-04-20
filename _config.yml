@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-logo: !(pictures/GUN.png)
+logo: https://garuda-union.github.io/pictures/GUN.png
 search_enabled: true
 title: Garuda Union Wiki
 description: Wiki page for Garuda Union corp
