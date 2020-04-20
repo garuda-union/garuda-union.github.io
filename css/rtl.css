@@ -27,6 +27,8 @@ html{direction:rtl}body{direction:rtl}.flip.text-left{text-align:right}.flip.tex
 
 #logo {
   float: right;
+  max-width: 100%;
+  height: auto;
 }
 
 #mainMenu {
