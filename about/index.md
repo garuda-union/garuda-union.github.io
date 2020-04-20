@@ -1,6 +1,6 @@
 ---
 title: About Garuda Union
-nav_exclude: true
+nav_order: 5
 layout: default
 published: true
 ---
