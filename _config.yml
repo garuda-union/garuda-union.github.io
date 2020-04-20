@@ -3,6 +3,7 @@ logo: "https://imageserver.eveonline.com/Corporation/98296037_256.png"
 search_enabled: true
 title: Garuda Union Wiki
 description: Wiki page for Garuda Union corp
+ga_tracking: UA-164061708-1
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Garuda Union"
