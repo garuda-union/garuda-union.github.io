@@ -4,7 +4,7 @@ nav_order: 6
 layout: default
 published: true
 ---
-# About Garuda Union
+# Garuda Union
 ---
 
 
