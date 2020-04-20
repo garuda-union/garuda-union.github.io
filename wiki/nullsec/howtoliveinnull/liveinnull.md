@@ -9,7 +9,7 @@ Tinggal di null-sec tidak sama seperti di high-sec, tapi disinilah konten EVE On
 Ada beberapa hal yg wajib diperhatikan ketika member sudah tinggal di null-sec, seperti:
 - Local channel
 - Intel channel
-- Join audio channel di Discord
+- Join audio comms di Discord
 - Join standing fleet
 - Mengikuti arahan FC atau member senior
 - Menaati aturan aliansi khususnya dalam hal PVE
