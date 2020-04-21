@@ -1,1 +1,22 @@
-
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "Static template of Garuda Union's website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garuda-union/garuda-union.github.io.git"
+  },
+  "keywords": [
+    "template",
+    "codesandbox",
+    "static"
+  ],
+  "homepage": "https://garuda-union.github.io/",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
