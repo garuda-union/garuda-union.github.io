@@ -23,3 +23,4 @@ Saat ini **Garuda Union** menetap di high security space sebagai entitas untuk m
 Selain itu, di awal tahun 2020 **Garuda Union** juga melahirkan sister corp di null yang dinamai **Hollow United Garuda** dengan fokus di null security space. Korporasi ini nantinya merupakan tujuan akhir dari member-member yang berada di **Garuda Union**.
 
 Meskipun status **Garuda Union** berubah menjadi transit corp, eksistensi **Garuda Union** akan tetap ada sebagai komunitas EVE player di Indonesia.
+CHECKING REPO
